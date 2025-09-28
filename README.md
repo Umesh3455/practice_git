@@ -1,2 +1,1 @@
-# git_practice1
-LINE FROM ACCOUNT A
+changes made by B
