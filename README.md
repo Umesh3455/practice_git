@@ -1,2 +1,1 @@
-# git_practice1
-LINE FROM ACCOUNT A
+this is the code written by the branch name feature-conflict-a
